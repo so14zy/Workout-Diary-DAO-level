@@ -1,5 +1,5 @@
 # Workout-Diary-DAO-level
-DAO level for a workout diary with the following tables:
+DAO level written in the JAVA for a workout diary with the following tables:
 
 CREATE TABLE exercise (
 	id    INTEGER PRIMARY KEY,
