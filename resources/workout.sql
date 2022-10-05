@@ -1,0 +1,4 @@
+CREATE TABLE workout (
+	id   INTEGER PRIMARY KEY,
+	date TEXT    NOT NULL UNIQUE
+);
